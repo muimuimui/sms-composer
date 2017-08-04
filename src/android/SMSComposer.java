@@ -2,7 +2,6 @@
  * The MIT License (MIT)
  *
  * Copyright (c) 2013 Gal Cohen
-
  * Original code from:
  * Pierre-Yves Orban, Daniel Shookowsky - android: https://github.com/phonegap/phonegap-plugins/tree/5cf45fcade4989668e95a6d34630d2021c45291a/Android/SMSPlugin
  * Randy McMillan - ios and js: https://github.com/phonegap/phonegap-plugins/blob/5cf45fcade4989668e95a6d34630d2021c45291a/iOS/SMSComposer/SMSComposer.js
