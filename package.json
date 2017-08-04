@@ -1,0 +1,15 @@
+{
+  "name": "showmessagecomposer",
+  "version": "1.0.1",
+  "description": "",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
